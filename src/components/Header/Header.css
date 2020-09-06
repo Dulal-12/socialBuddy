@@ -1,0 +1,21 @@
+.Header-section{
+    text-align: center;
+    
+}
+.Header-section img{
+    height:120px;
+}
+
+.navigation{
+    background-color: green;
+    height:60px;
+    text-align: center;
+    border-radius:50px;
+    box-shadow:10px 10px 5px lightgrey;
+}
+.navigation a{
+    font-family: 'Caveat', cursive;
+    color:white;
+    font-size:30px;
+    text-decoration: none;
+}
